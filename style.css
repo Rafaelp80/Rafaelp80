@@ -1,8 +1,8 @@
 body{
-  background-image: url("buenas.png");
+  background-color: #0ae6d7ff;
+  color:#cf0707;
 }
-p, h1, h2{
-  color:#d20f0f;
+p{
   font-family:fantas
 }
 
