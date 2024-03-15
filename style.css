@@ -1,7 +1,10 @@
 body{
-background-color:#11e4c1 ;
+  background-image: url("buenas.png");
+}
+p, h1, h2{
   color:#d20f0f;
+  font-family:fantas
 }
-p{
-  font-family:fantasy;
-}
+
+
+  
