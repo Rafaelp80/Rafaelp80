@@ -1,6 +1,10 @@
 body{
   background-color: #0ae6d7ff;
   color:#cf0707;
+  background-image: url("buenas.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
 }
 p{
   font-family:fantas
